@@ -24,6 +24,9 @@ Contain many folders, each of them contain at least one image. When key words is
 ### msg/
 Contain many folders, each of them contain at least one text file. When key words is matched, bot will select targeted folder and send randomly one of text of the files in that folder. 
 
+### OnTag.yml
+When bot was been tagged, it will send randomly one line of this file.
+
 ## Examples
 
 ### Send image
