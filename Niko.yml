@@ -1,0 +1,6 @@
+com.github.smallru8.plugin.reply.Reply
+Reply Help:
+    Admin:
+    /replyreload : Reload reply file.
+    Normal:
+    /reply on|off : Turn on|off.
